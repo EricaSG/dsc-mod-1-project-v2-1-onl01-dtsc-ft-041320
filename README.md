@@ -1,6 +1,6 @@
 # An Analysis on Movie Creation and the Movie Industry
 
-<img src= "images/Hollywood.jpeg" width= '100%'/>
+<img src= "./images/Hollywood.jpeg" width= '100%'/>
 
 ## Purpose
 The purpose of this analysis is to obtain trends and insights from current film industry data in order to set my client, Microsoft, up for success upon entry into the field. 
@@ -36,12 +36,12 @@ The purpose of this analysis is to obtain trends and insights from current film 
 * Imdb.title.ratings.csv.gz 
 * imdb.title.akas.csv.gz
 
-<img src= "images/Question 1.png"/>
+<img src= "./images/Question 1.png"/>
 
 #### Exploratory Data Anaylsis (EDA)
 The graph below explores factors that could potentially contribute to movie reviews outside of production quality and plot, like the runtime of the movie.
 
-<img src= 'images/Rate vs length.png'/>
+<img src= './images/Rate vs length.png'/>
 
 **Findings** 
 The covariance between movie runtime and average viewer ratings is -2.02 and the Pearson correlation coefficient in between average ratings and time is -0.082. Both are negative and approach zero which tells us that the two variables have a near negligible effect on each other.
@@ -53,16 +53,16 @@ Movie run times whether long or short have little to no effect on the ratings le
 #### Table Used:
 * tn.movie_budgets.csv.gz 
 
-<img src= 'images/Question 2.png'/>
+<img src= './images/Question 2.png'/>
 
 #### Exploratory Data Anaylsis (EDA)
 The graph below shows the relationship between Production Budget vs. Domestic Gross Sales, Production Budget & Worldwide Gross Sales, and Domestic Gross Sales vs. Worldwide Gross Sales.
 
-<img src= 'images/Dom vs Bud.png'/>
+<img src= './images/Dom vs Bud.png'/>
 
-<img src= 'images/Wor vs Bud.png'/>
+<img src= './images/Wor vs Bud.png'/>
 
-<img src= 'images/dom vs wor.png'/>
+<img src= './images/dom vs wor.png'/>
 
 **Findings**
 Production Budget & Domestic Gross is 0.685, having a low correlation, whereas the correlation coefficient (r) for Production Budget & Worldwide Gross is 0.748, a mid to high correlation. Meaning that a change in production budget results in an almost similar change in worldwide gross. The correlation coefficient for Domestic Gross & Worldwide Gross is 0.938. This means that they have a high positive correlation.
@@ -77,12 +77,12 @@ Domestic Gross & Worldwide Gross tell us if a film is successful domestically, t
 #### Table Used: 
 * imdb.title.akas.csv.gz
 
-<img src= 'images/Question 3.png'/>
+<img src= './images/Question 3.png'/>
 
 #### Exploratory Data Anaylsis (EDA)
 The graph below unvails the Top 15 regions where studios have released popular films.
 
-<img src='images/TopReg.png'/>
+<img src='./images/TopReg.png'/>
 
 **Findings**
 The top 5 regions where movie studios have released popular movies are:
