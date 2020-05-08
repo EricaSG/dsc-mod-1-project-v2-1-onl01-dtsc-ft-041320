@@ -36,7 +36,7 @@ The purpose of this analysis is to obtain trends and insights from current film 
 * Imdb.title.ratings.csv.gz 
 * imdb.title.akas.csv.gz
 
-<img src= 'images/Question 1.png'/>
+<img src= "images/Question 1.png"/>
 
 #### Exploratory Data Anaylsis (EDA)
 The graph below explores factors that could potentially contribute to movie reviews outside of production quality and plot, like the runtime of the movie.
