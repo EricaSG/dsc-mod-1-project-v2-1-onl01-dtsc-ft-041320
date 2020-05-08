@@ -1,6 +1,6 @@
 # An Analysis on Movie Creation and the Movie Industry
 
-<img src= '/images/Hollywood.jpeg' width= '100%'/>
+<img src= 'images/Hollywood.jpeg' width= '100%'/>
 
 ## Purpose
 The purpose of this analysis is to obtain trends and insights from current film industry data in order to set my client, Microsoft, up for success upon entry into the field. 
@@ -9,25 +9,25 @@ The purpose of this analysis is to obtain trends and insights from current film 
 #### **Blog:**  https://medium.com/when-life-gives-you-cauliflower-make-cauliflower/when-life-gives-you-cauliflower-make-cauliflower-wings-a3316f932b61?sk=6c95fc029011907a7ee598383baa15ae
 
 ## Description of Data
-* imdb.name.basics.csv.gz
+* **imdb.name.basics.csv.gz**
     *  Provides the professional roles (actor, composer, cinematographer, etc.) and names of the individuals behind certain film projects listed in the "known_for_titles" column, with their death and birth years included.
-* bom.movie_gross.csv.gz
+* **bom.movie_gross.csv.gz**
     * Contains the actual movie titles for popular movies, the year of release, the studios who released them, and the amount of money they grossed domestically and abroad.
-* imdb.title.akas.csv.gz
+* **imdb.title.akas.csv.gz**
     * Provides the titles amd title ids for select films, as well as the region and language they were released in, and key attributes of each film.
-* rt.movie_info.csv.gz
+* **rt.movie_info.csv.gz**
     * Reveals the synopses, ratings and genres for films, along with their writer-director pairings. In addition we see the length of each film in the "runtime" column, and dates that the movie was released in theaters and to dvd. The currency and box office performance were included as well.
-* imdb.title.prinicipals.csv.gz
+* **imdb.title.prinicipals.csv.gz**
     * Contains the movie title codes for popular movies, jobs that were involved in the making and filming of the movie, and the characters they played in those movies if applicable.
-* Imdb.title.ratings.csv.gz
+* **Imdb.title.ratings.csv.gz**
     * Shows the average viewer rating and numner of upvotes per movie title (code)
-* rt.reviews.tsv.gz
+* **rt.reviews.tsv.gz**
     * Provides the rotten tomatoes data such as, critics, reviews, and "fresh" score per film.
-* tn.movie_budgets.csv.gz
+* **tn.movie_budgets.csv.gz**
     * Reveals the production budget and domestic & worldwide gross sales per each film title.
-* tmdb.movies.csv.gz
+* **tmdb.movies.csv.gz**
     * Gives the assigned genre ids and release dates per movie.
-* imdb.title.crew.csv.gz
+* **imdb.title.crew.csv.gz**
     *  Shows the writers and directors involved in each movie by title code.
 
  ## Areas of Interest
