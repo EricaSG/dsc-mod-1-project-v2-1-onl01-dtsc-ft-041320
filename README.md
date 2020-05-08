@@ -5,6 +5,9 @@
 ## Purpose
 The purpose of this analysis is to obtain trends and insights from current film industry data in order to set my client, Microsoft, up for success upon entry into the field. 
 
+#### **Non Technical Presenation:**
+#### **Blog:** 
+
 ## Description of Data
 * imdb.name.basics.csv.gz
     *  Provides the professional roles (actor, composer, cinematographer, etc.) and names of the individuals behind certain film projects listed in the "known_for_titles" column, with their death and birth years included.
@@ -29,12 +32,13 @@ The purpose of this analysis is to obtain trends and insights from current film 
 
  ## Areas of Interest
 ### Question 1: Does the Length of a Movie Have on its Popularity/Ratings?
-####Tables Used: 
+#### Tables Used: 
 * Imdb.title.ratings.csv.gz 
 * imdb.title.akas.csv.gz
+
 <img src= 'images/Question 1.png'/>
 
-####Exploratory Data Anaylsis (EDA)
+#### Exploratory Data Anaylsis (EDA)
 The graph below explores factors that could potentially contribute to movie reviews outside of production quality and plot, like the runtime of the movie.
 
 <img src= 'images/Rate vs length.png'/>
@@ -51,7 +55,7 @@ Movie run times whether long or short have little to no effect on the ratings le
 
 <img src= 'images/Question 2.png'/>
 
-####Exploratory Data Anaylsis (EDA)
+#### Exploratory Data Anaylsis (EDA)
 The graph below shows the relationship between Production Budget vs. Domestic Gross Sales, Production Budget & Worldwide Gross Sales, and Domestic Gross Sales vs. Worldwide Gross Sales.
 
 <img src= 'images/Dom vs Bud.png'/>
@@ -69,13 +73,13 @@ The difference in r between Production Budget & Domestic Gross Sales and Product
 The high positive correlation between 
 Domestic Gross & Worldwide Gross tell us if a film is successful domestically, there is a high probability that the film will also do well abroad with foreign audiences, and if a film does poorly domestically, then failure abroad can be expected, and foreign release should be reconsidered with return on investment in mind.
 
-
 ### Question 3: What Regions are Movie Studios Targeting for Film Releases?
-####Table Used: 
+#### Table Used: 
 * imdb.title.akas.csv.gz
+
 <img src= 'images/Question 3.png'/>
 
-####Exploratory Data Anaylsis (EDA)
+#### Exploratory Data Anaylsis (EDA)
 The graph below unvails the Top 15 regions where studios have released popular films.
 
 <img src='images/TopReg.png'/>
@@ -90,4 +94,6 @@ The top 5 regions where movie studios have released popular movies are:
 
 **Recommendations & Insights**
 If Microsoft follows the blueprint, release patterns, and promo of existing major studios, then they will see similar success. Alternatively if Microsoft were looking to render their potential movie studio competitors irrelevant, they should avoid these top target countries, and focus on serving smaller, niche markets.
+
+
 
