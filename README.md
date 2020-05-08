@@ -5,8 +5,11 @@
 ## Purpose
 The purpose of this analysis is to obtain trends and insights from current film industry data in order to set my client, Microsoft, up for success upon entry into the field. 
 
-#### **Non Technical Presenation:**
-#### **Blog:**  https://medium.com/when-life-gives-you-cauliflower-make-cauliflower/when-life-gives-you-cauliflower-make-cauliflower-wings-a3316f932b61?sk=6c95fc029011907a7ee598383baa15ae
+## Other Resources
+#### **Non Technical Presenation** 
+https://youtu.be/_at82K_QNi0
+#### **Blog**  
+https://medium.com/when-life-gives-you-cauliflower-make-cauliflower/when-life-gives-you-cauliflower-make-cauliflower-wings-a3316f932b61?sk=6c95fc029011907a7ee598383baa15ae
 
 ## Description of Data
 * **imdb.name.basics.csv.gz**
