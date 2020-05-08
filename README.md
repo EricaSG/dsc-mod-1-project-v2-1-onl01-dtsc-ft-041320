@@ -50,7 +50,7 @@ The covariance between movie runtime and average viewer ratings is -2.02 and the
 Movie run times whether long or short have little to no effect on the ratings left by movie viewers. Microsoft can take the liberty to make shorts, and/or lengthy documentaries without fear of sacrificing quality content. 
 
 ### Question 2: Does a Larger Production Budget Equate to a Higher Gross?
-####Table Used:
+#### Table Used:
 * tn.movie_budgets.csv.gz 
 
 <img src= 'images/Question 2.png'/>
