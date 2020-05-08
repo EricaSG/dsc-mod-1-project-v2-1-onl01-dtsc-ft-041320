@@ -1,6 +1,6 @@
 # An Analysis on Movie Creation and the Movie Industry
 
-<img src= "./images/Hollywood.jpeg" width= '100%'/>
+<img src= "./images/Hollywood.jpeg" width= '90%'/>
 
 ## Purpose
 The purpose of this analysis is to obtain trends and insights from current film industry data in order to set my client, Microsoft, up for success upon entry into the field. 
